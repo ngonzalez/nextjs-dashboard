@@ -15,7 +15,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
              {<Card
                title="Total Folders"
                value={results.length}
-               type="customers"
+               type="invoices"
              />}
            </div>
          </main>
