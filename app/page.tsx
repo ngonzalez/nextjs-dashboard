@@ -1,9 +1,7 @@
 import * as React from 'react';
-import { ArrowRightIcon } from '@heroicons/react/24/outline';
-import Link from 'next/link';
-import styles from '@/app/ui/home.module.css';
 import Image from 'next/image';
 import SideNav from '@/app/ui/dashboard/sidenav';
+import type { Route } from "nextjs-routes";
  
 export default function Index() {
 

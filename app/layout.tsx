@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { inter, lusitana } from '@/app/ui/fonts';
+import { inter } from '@/app/ui/fonts';
 import { Providers } from './providers';
 
 export default function RootLayout({children}: { children: React.ReactNode }) {
